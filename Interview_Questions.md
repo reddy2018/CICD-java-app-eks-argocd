@@ -1,4 +1,4 @@
-## NOTE: While I have prepared all the questions, to provide better answers in a detailed way, the summary provided below is the collection of my knowledge and information from various sources like Medium, Stack Overflow, ChatGPT.
+## NOTE: While I have prepared all the questions, to provide better answers in a detailed way, the summary provided below is the collection of my knowledge
 
 Q: Can you explain the CICD process in your current project ? or Can you talk about any CICD process that you have implemented ?
 
